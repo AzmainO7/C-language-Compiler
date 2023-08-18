@@ -1,0 +1,1 @@
+float x1 = 3.125;;double f1(int int x)){double z;if(x<x1) z = 0.03;else z = 0.01;else return z;double z;if(x>x1) z = 3.00;else if z = 0.01;else return z;}int main((){int i, z;;for (i=0, i<10;i=i+1){z = f1(i);}}]}

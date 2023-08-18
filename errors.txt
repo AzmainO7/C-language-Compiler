@@ -1,0 +1,9 @@
+Duplicate token ';' at line 1, 
+Duplicate token 'int' at line 3, 
+Misplaced ')' at line 3, 
+Unmatched 'else' at line 8, 
+Duplicate token ';' at line 17, 
+Unknown syntax of 'for' at line no 18
+Misplaced ']' at line 21, 
+Misplaced '}' at line 22, 
+Misplaced '(' at line 15, 

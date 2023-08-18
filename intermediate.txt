@@ -1,0 +1,23 @@
+1 float id x1 = 3.125 ; ; 
+2 
+3 double id f1 ( int int id x ) ) 
+4 { 
+5 double id z ; 
+6 if ( id x < id x1 ) id z = 0.03 ; 
+7 else id z = 0.01 ; 
+8 else return id z ; 
+9 double id z ; 
+10 if ( id x > id x1 ) id z = 3.00 ; 
+11 else if id z = 0.01 ; 
+12 else return id z ; 
+13 } 
+14 
+15 int id main ( ( ) 
+16 { 
+17 int id i , id z ; ; 
+18 for ( id i = 0 , id i < 10 ; id i = id i + 1 ) 
+19 { 
+20 id z = id f1 ( id i ) ; 
+21 } } ] 
+22 } 
+23

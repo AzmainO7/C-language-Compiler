@@ -1,0 +1,92 @@
+#include<stdio.h>
+
+int  main(void)
+{
+
+// Single  Line Comment
+
+printf ("Hello");
+/* Multi
+    Line
+            Comment
+
+*/
+printf("World");
+return 0;
+}
+
+
+
+
+// A program fragment
+float x1 = 3.125;
+/* Definition of the
+function f1 */
+double f1(int x)
+{
+    double z;
+    z = 0.01;
+    return z;
+}
+//* Beginning of 'main'
+int main(void)
+{
+    int n1; double z;
+    n1=25; z=f1(n1);
+}
+
+
+
+
+/* A program fragment*/
+
+float   x1 = 3.125;;;
+/* Definition of function f1 */
+double f1(float a, int int x)
+{if(x<x1)
+double z;;
+else z =     0.01;}}
+else  return z;
+}
+/* Beginning of 'main'   */
+int main(void)
+{{{{
+int n1; double z;
+n1=25; z=f1(n1);}
+
+
+
+
+char c; int x1, x_2; float y1, y2; x1=5; x_2= 10; y1=2.5+x1*45; y2=100.o5-x_2/3; if(y1<=y2) c='y'; else c='n';
+
+
+
+
+float x1 = 3.125;double f1(int x){double z;z = 0.01;return z;}int main(void){int n1; double z;n1=25; z=f1(n1);}
+
+
+
+
+
+float x1 = 3.125;;
+/* Definition of function f1;; */
+double f1(int int x))
+{
+double z;
+if(x<x1) z = 0.03;
+else z = 0.01;
+else return z;
+double z;
+if(x>x1) z = 3.00;
+else if z = 0.01;
+else return z;
+}
+// declaration of main )
+int main(()
+{
+int i, z;;
+for (i=0, i<10;i=i+1)
+{
+z = f1(i);
+}}]
+}
